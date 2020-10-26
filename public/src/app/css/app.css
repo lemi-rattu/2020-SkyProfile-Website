@@ -312,10 +312,10 @@ html, body {
 
 .yb-my-profile-img {
   background-color: rgba(0, 0, 0, 0.5);
-  position: absolute;
+  position: relative;
   left: 0;
   top: 0;
-  width: 50%;
+  width: auto;
   height: 100%;
 }
 
