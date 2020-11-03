@@ -111,18 +111,18 @@ html, body {
   color: #fff;
 }
 
-.yb-logo::before {
+/* .yb-logo::before {
   content: '';
   position: absolute;
   width: 30px;
   height: 30px;
   top: 50%;
   margin-top: -15px;
-  background: #1e87f0;
+  background: #577797;
   left: 3px;
   border-radius: 50%;
   z-index: 0;
-}
+} */
 
 .yb-menu-toggle-wrapper {
   display: block;
