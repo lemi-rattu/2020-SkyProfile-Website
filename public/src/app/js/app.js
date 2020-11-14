@@ -249,10 +249,13 @@
         "</div>"
       ); 
       
+      
+      
       $.post($this.attr("href"), function(data) {
         $wrap.html(data); 
         $wrap.removeClass('uk-animation-toggle');
       });
+      
       return false;
     });
   }
